@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Tilting Gothic';
+    src: url('https://astepro-banner-fonts.s3.amazonaws.com/Titling+Gothic+FB+Compressed+Family/Titling+Gothic+FB+Condensed+Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Brandon Text';
+    src: url('https://astepro-banner-fonts.s3.amazonaws.com/Brandon+Text/HVD+Fonts+-+BrandonText-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Brandon Text Medium';
+    src: url('https://astepro-banner-fonts.s3.amazonaws.com/Brandon+Text/HVD+Fonts+-+BrandonText-Medium.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
